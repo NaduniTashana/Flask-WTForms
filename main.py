@@ -15,6 +15,7 @@ On MacOS type:
 pip3 install -r requirements.txt
 
 This will install the packages from requirements.txt for this project.
+for testinng purpose
 '''
 
 class LoginForm(FlaskForm):
